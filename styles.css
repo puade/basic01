@@ -182,7 +182,7 @@ background-color: rgb(26, 26, 26); /* Warna latar belakang saat hover */
   color: #0f0f0f;
   flex-direction: column;
   align-items: center;
-  justify-content: flex-start; /* Perubahan di sini, agar konten dimulai dari atas */
+  justify-content: center; /* Perubahan di sini, agar konten dimulai dari atas */
   text-align: center;
   padding-top: 0px;
   padding-bottom: 50px;
@@ -675,5 +675,3 @@ background: transparent; /* Menyembunyikan track scrollbar */
 width: 90%;
 padding-bottom: 50px;
 }
-
-
