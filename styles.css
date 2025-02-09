@@ -516,7 +516,7 @@ pointer-events: auto;
 
 .tombolmusik {
   position: fixed;
-  right: calc(50% - 220px);
+  right: calc(50% - 200px);
   z-index: 2000;
 }
 
